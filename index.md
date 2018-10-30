@@ -7,6 +7,7 @@
 | 脱獄コース | ¥7000 | ¥3500 |
 
 <span style="color: red; ">※注意:1日分の料金です。</span>
-![チケット](unificDSC08664_TP_V4.jpg)
+
+![](unificDSC08664_TP_V4.jpg=50x50)
 
 
